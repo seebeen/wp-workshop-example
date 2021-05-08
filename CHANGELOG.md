@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/seebeen/wp-workshop-example/compare/v1.0.1...v2.0.0) (2021-05-08)
+
+
+### Features
+
+* **core:** Shutdown the website ([6e12e79](https://github.com/seebeen/wp-workshop-example/commit/6e12e79eac67d4e65ee1521933c0576443fde16a))
+
+
+### BREAKING CHANGES
+
+* **core:** Website don't no work
+
 ## [1.0.1](https://github.com/seebeen/wp-workshop-example/compare/v1.0.0...v1.0.1) (2021-05-08)
 
 
