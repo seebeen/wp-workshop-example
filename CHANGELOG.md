@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/seebeen/wp-workshop-example/compare/v1.0.0...v1.0.1) (2021-05-08)
+
+
+### Bug Fixes
+
+* **build:** Changed zip file name [skip ci] ([57cce12](https://github.com/seebeen/wp-workshop-example/commit/57cce12a2f9404bad39d65e62ebacf0a22ece8f2))
+
 # 1.0.0 (2021-05-08)
 
 
