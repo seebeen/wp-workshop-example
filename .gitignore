@@ -1,3 +1,4 @@
-secret.json
+build/*.zip
 node_modules
 vendor
+secret.json
