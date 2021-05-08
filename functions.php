@@ -6,3 +6,13 @@ add_action('after_setup_theme', function() {
     add_image_size('micro-size', 10, 10, true);
 
 });
+
+add_action('template_redirect', function() {
+
+    if (is_page('kontakt')) :
+        wp_safe_redirect('/kontakt-2', 301);
+        exit;
+    endif;
+    
+
+});
