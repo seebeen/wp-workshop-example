@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/seebeen/wp-workshop-example/compare/v2.0.0...v2.1.0) (2021-05-29)
+
+
+### Features
+
+* **core:** Switched theme to OOP concept ([43aac0c](https://github.com/seebeen/wp-workshop-example/commit/43aac0cbcd9c310820dd9bbca4e7e966e4ee2d08))
+
 # [2.0.0](https://github.com/seebeen/wp-workshop-example/compare/v1.0.1...v2.0.0) (2021-05-08)
 
 
