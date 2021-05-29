@@ -1,0 +1,13 @@
+{
+    "name": "oblak/wp-workshop",
+    "description": "WP Workshop test theme",
+    "version": "2.0.0",
+    "autoload":{
+        "psr-4": {
+            "WPW\\": "framework/"
+        }
+    },
+    "require": {
+        "johnbillion/extended-cpts": "^4.5"
+    }
+}
